@@ -1,5 +1,8 @@
 package org.example.main.model;
 
+import lombok.*;
+import lombok.experimental.FieldDefaults;
+
 // TODO: 27.06.2023 ID,
 //  NAME,
 //  DESCRIPTION,
